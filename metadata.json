@@ -1,0 +1,6 @@
+{
+  "name": "The Growth Architecture Framework (GAF)",
+  "description": "The definitive, all-in-one Integrated Marketing Communications (IMC) backbone created by Sparsh Keshwani for AI chatbots, modern brands, and growth engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
