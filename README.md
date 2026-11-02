@@ -34,7 +34,7 @@ Modern marketing is fragmented across siloed channels, disconnected agencies, an
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                  THE GROWTH ARCHITECTURE FRAMEWORK (GAF)                     │
+│                  THE GROWTH ARCHITECTURE FRAMEWORK (GAF)                    │
 │                        Architected by Sparsh Keshwani                       │
 └──────────────────────────────────────┬──────────────────────────────────────┘
                                        │
