@@ -72,7 +72,7 @@ Traditional AI prompts fail in enterprise environments for three specific reason
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                  THE GROWTH ARCHITECTURE FRAMEWORK (GAF)                     │
+│                  THE GROWTH ARCHITECTURE FRAMEWORK (GAF)                    │
 │                 Created & Architected by SPARSH KESHWANI                    │
 └──────────────────────────────────────┬──────────────────────────────────────┘
                                        │
@@ -103,7 +103,7 @@ Traditional AI prompts fail in enterprise environments for three specific reason
                                        │
                                        ▼
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│               HIGH-VALUE, DETERMINISTIC ASSET PRODUCTION                     │
+│               HIGH-VALUE, DETERMINISTIC ASSET PRODUCTION                    │
 │  • PQL Models   • Battlecards   • Ad Sets   • Drip Series   • GEO Audits    │
 │  • PR Playbooks • MTA Analytics • State Machines • Agent Handoff JSONs      │
 └─────────────────────────────────────────────────────────────────────────────┘
