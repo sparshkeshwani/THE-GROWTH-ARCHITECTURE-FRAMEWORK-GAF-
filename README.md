@@ -7,7 +7,7 @@
   ██║   ██║██╔══██║██╔══╝  
   ╚██████╔╝██║  ██║██║     
    ╚═════╝ ╚═╝  ╚═╝╚═╝     
-   THE GROWTH ARCHITECTURE FRAMEWORK
+   THE GROWTH ARCHITECTURE FRAMEWORK by SPARSH KESHWANI
 ```
 
 # ⚡ The Growth Architecture Framework (GAF)
