@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
+import Image from 'next/image';
 import { Download, Terminal, Sparkles, Copy, Check, ArrowRight, ShieldCheck, Cpu, Flame, Layers, Zap } from 'lucide-react';
 
 export default function Hero() {
@@ -60,6 +61,18 @@ export default function Hero() {
             <Zap className="w-3.5 h-3.5 text-emerald-400" />
             <span>Claude 3.7 • GPT-4o • Gemini 2.0 • Perplexity • Cursor</span>
           </div>
+        </div>
+
+        {/* Featured Repo Cover Banner */}
+        <div className="mb-10 max-w-4xl mx-auto rounded-2xl overflow-hidden border border-slate-800 shadow-2xl bg-white/5 p-1 backdrop-blur-sm group hover:border-purple-500/50 transition">
+          <Image
+            src="/assets/gaf-cover.png"
+            alt="The Growth Architecture Framework (GAF) - Sparsh Keshwani"
+            width={1200}
+            height={600}
+            priority
+            className="w-full h-auto rounded-xl object-contain shadow-lg"
+          />
         </div>
 
         {/* Main Headline */}

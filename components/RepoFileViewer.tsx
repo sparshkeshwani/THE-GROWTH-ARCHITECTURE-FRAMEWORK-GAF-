@@ -17,11 +17,15 @@ const REPO_FILES: RepoFile[] = [
     path: '/README.md',
     type: 'markdown',
     icon: FileText,
-    content: `# ⚡ The Growth Architecture Framework (GAF)
+    content: `<div align="center">
+<img src="assets/gaf-cover.png" alt="The Growth Architecture Framework (GAF) - Sparsh Keshwani" width="100%" />
+</div>
+
+# ⚡ The Growth Architecture Framework (GAF)
 ### The Definitive Integrated Marketing Communications (IMC) Backbone for Frontier AI Models & Autonomous Growth Engineering
 
-Created & Architected by Sparsh Keshwani
-License: MIT | Production Ready v2.4
+Created, Architected & Developed by Sparsh Keshwani
+License: MIT | Version: v2.4 Production Stable
 
 > The Be-All and End-All for AI-Driven Marketing & Integrated Marketing Communications.
 

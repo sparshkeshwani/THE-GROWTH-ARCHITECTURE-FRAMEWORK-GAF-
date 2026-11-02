@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/gaf-cover.png" alt="The Growth Architecture Framework (GAF) by Sparsh Keshwani" width="100%" style="border-radius: 12px; max-width: 900px; margin-bottom: 20px;" />
+
 ```
    ██████╗  █████╗ ███████╗
   ██╔════╝ ██╔══██╗██╔════╝
